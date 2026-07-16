@@ -24,6 +24,7 @@ I am a 3rd-year Computer Science student passionate about building scalable mobi
 📱 Exploring modern Android development practices.   
 💡 Seeking opportunities to contribute to meaningful Open Source projects.  
 ## 📍 Connect With Me
+Email Address: alkapal9981@gmail.com  
 LinkedIn: https://www.linkedin.com/in/alka-pal-b31775366  
 GeeksforGeeks: https://www.geeksforgeeks.org/profile/alka9162  
 HackerRank: https://www.hackerrank.com/profile/alkapal9981  
