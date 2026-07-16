@@ -3,14 +3,14 @@
 ## 📖 About me,
 I am a 3rd-year Computer Science student passionate about building scalable mobile applications and robust back-end systems. I enjoy solving complex problems through Data Structures & Algorithms and am always eager to learn and implement new technologies.
 ## 🛠️ Tech Stack
-Java  
-C++  
-HTML  
-CSS  
-JavaScript  
-MongoDB  
-Git & GitHub  
-SQL  
+•  Java  
+•  C++  
+•  HTML  
+•  CSS  
+•  JavaScript  
+•  MongoDB  
+•  Git & GitHub  
+•  SQL  
 ## 📂 Projects
 ### 🌐 Web Applications
 🎮 Rock Paper Scissors Game  
