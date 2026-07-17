@@ -10,14 +10,15 @@ I am a 3rd-year Computer Science student passionate about building scalable mobi
 •  JavaScript  
 •  MongoDB  
 •  Git & GitHub  
-•  SQL  
+•  SQL    
+• Postman
 ## 📂 Projects
 ### 🌐 Web Applications
 🎮 Rock Paper Scissors Game  
 🌦️ Weather Forecast App  
 ✅ Todo List  
 🔐 Password Generator  
-### Hardware Project
+### 🎛️ Hardware Project
 🚨 Accident Detection & Rescue System  
 ## 🎯Current Focus
 🧠 Mastering Data Structures & Algorithms (DSA).  
